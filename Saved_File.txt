@@ -1,0 +1,35 @@
+Oscar
+Assassin
+30
+30
+25
+51
+1
+35
+100
+0
+1
+Quick-Stab 3 5 0 0 0 None 
+1
+juice
+1
+
+Oscar
+Assassin
+105
+180
+175
+126
+20
+35
+337
+75
+4
+Knife-Throw 10 10 0 0 0 None 
+Master-Focus 25 0 0 0 10 Empowered 
+Cross-Slash 20 15 0 0 0 None 
+Stealth 25 0 0 0 0 Stealth 
+0
+
+
+
